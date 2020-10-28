@@ -1,0 +1,122 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+#container{
+    border:2px solid black;
+    background-color: white;
+    margin:0px auto;
+    top:10vh;
+    width:60vh;
+    height:55vh;
+    margin-top:30px;
+    border-radius: 20px;
+    overflow: hidden; 
+    padding:0px;
+}
+#top-sec{
+    border:1px solid black;
+    height:45%;
+    border-top:0px;
+    border-left:0px;
+    border-right:0px;
+    background-color:rgb(119, 105, 128);
+    overflow: hidden;
+}
+#botleft-sec{
+    bottom: 0px;
+    height:54%;
+    width:50%;
+    border:2px solid black;
+    border-bottom: 0px;
+    border-left:0px;
+    border-right:100%;
+    background-color:rgb(182, 123, 169);
+}
+#botright-sec{
+    bottom:0px;
+    height:54%;
+    border:2px solid black;
+    float:right;
+    width:50%;
+    border-bottom:0px;
+    border-right:0px;
+    border-left:100%;
+    background-color:rgb(187, 122, 128);
+}
+#text{
+    overflow: hidden;
+    top:0;
+}
+#tit{
+    color:lightseagreen;
+    text-align: center;
+}
+#tit2{
+    color:lightgreen;
+    text-align: center;
+}
+#tit3{
+    color:white;
+    margin:15px;
+    margin-top:0px;
+    font-size:85%;
+    line-height: 17px;
+}
+#button{
+    margin:40%;
+}
+#tit-2{
+    text-align: center;
+    color:purple;
+    font-size:17px;
+}
+#cost{
+    margin:10px;
+    font-size:30px;
+    font-weight: bolder;
+}
+#text2{
+    color:purple
+}
+#tit2-2{
+    font-size:10px;
+    margin:5px;
+}
+#the-button{
+    margin-top:25px;
+    margin-left:40px;
+    border-radius:20px;
+    width:150px;
+    height:40px;
+    background-color: lightgreen;
+    color:black;
+    font-size: larger;
+}
+#the-button:hover{
+    background-color:green;
+}
+#tit-3{
+    text-align: center;
+    margin-left:0px;
+    margin-top:15px;
+    border:1px dotted black
+}
+li{
+    color:white;
+}
+#hidtxt{
+    color:black;
+}
+#hidbut{
+    background-color: black;
+    border:1px solid black;
+}
+#hidtxt2{
+    background-color:black;
+}
+
+
+
+
+
